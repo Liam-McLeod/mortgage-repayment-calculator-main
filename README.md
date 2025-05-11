@@ -17,8 +17,8 @@ This is a solution to the [Mortgage repayment calculator challenge on Frontend M
 
 ### Links
 
--  [Solution URL](https://www.frontendmentor.io/solutions/github-user-search-app-solution-GRz9EneLEn)
--  [Live Site URL](https://liam-mcleod.github.io/github-user-search-app/)
+-  [Solution URL](https://www.frontendmentor.io/solutions/mortgage-repayment-calculator-ktSPeYrwzf)
+-  [Live Site URL](https://liam-mcleod.github.io/mortgage-repayment-calculator-main/)
 
 ## Author
 - Frontend Mentor - [@Liam-McLeod](https://www.frontendmentor.io/profile/Liam-McLeod)
